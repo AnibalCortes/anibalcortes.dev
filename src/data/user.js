@@ -1,13 +1,13 @@
 const INFO = {
 	main: {
 		title: "Anibal Cortés Portfolio",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		name: "Aníbal Cortés",
+		email: "hello@anibalcortes.dev",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		github: "https://github.com/",
+		github: "https://github.com/AnibalCortes",
 		linkedin: "https://linkedin.com/",
 		stackoverflow: "https://stackoverflow.com/",
 	},
@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Aníbal Cortés. Desarrollador y Consultor Salesforce.",
 		description:
-			"Soy un desarrollador con experiencia dos años de experiencia en Salesforce. Clases Apex, Lightning Web Components, Aura y resto de metadata funcional de Salesforce. También diseño soluciones. Experiencia en el uso de Integración Contínua dedicada a Salesforce.",
+			"Soy un desarrollador con dos años de experiencia en desarrollo e implementación de soluciones en Salesforce. Clases Apex, Lightning Web Components, Aura y resto de metadata funcional de Salesforce. Experiencia en el uso de Integración Contínua dedicada a Salesforce.",
 	},
 
 	about: {

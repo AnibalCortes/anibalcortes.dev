@@ -91,6 +91,7 @@
 .homepage-works {
 	flex-basis: 600px;
 	padding-top: 30px;
+	margin-top: 5%;
 }
 
 @media (max-width: 1024px) {

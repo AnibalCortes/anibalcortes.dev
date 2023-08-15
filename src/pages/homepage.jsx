@@ -166,6 +166,10 @@ const Homepage = () => {
 							</a>
 						</div>
 
+						<div className="homepage-works">
+								<Works />
+							</div>
+
 						<div className="homepage-projects">
 							<AllProjects />
 						</div>
@@ -188,9 +192,7 @@ const Homepage = () => {
 								))}
 							</div>
 
-							<div className="homepage-works">
-								<Works />
-							</div>
+							
 						</div>
 
 						<div className="page-footer">
