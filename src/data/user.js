@@ -1,34 +1,31 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Anibal Cortés Portfolio",
 		name: "Tharindu N.",
 		email: "mail@tharindu.dev",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
 		github: "https://github.com/",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Aníbal Cortés. Desarrollador y Consultor Salesforce.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Soy un desarrollador con experiencia dos años de experiencia en Salesforce. Clases Apex, Lightning Web Components, Aura y resto de metadata funcional de Salesforce. También diseño soluciones. Experiencia en el uso de Integración Contínua dedicada a Salesforce.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Julio Aníbal Cortés Grech (Nombre completo). \nAsentado en Madrid, pero siempre dispuesto a nuevos retos.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Comencé mi carrera de manera remota desde mi Murcia natal, pero decidí mudarme a Madrid para afrontar nuevos retos profesionales. Soy un apasionado de la programación y me gusta aprender otras tecnologías que no tienen por qué estar vinculadas con mi trabajo (Python, Frameworks de Javascript, MongoDB), pero que pueden resultar de utilidad (¡Esta misma web está hecha en React!). Como datos más personales: Soy un apasionado del cine, la lectura y la comida.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Intento siempre estar actualizado y especializarme tanto en Tecnología como en Idiomas.",
 		description:
 			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
 	},
